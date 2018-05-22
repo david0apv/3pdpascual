@@ -77,7 +77,7 @@
 </div>
 <!--Enlaces-->
 <div class="pie">
-	<a href="inicio.php">Inicio</a>
+	<a href="index.php">Inicio</a>
 	<a href="contacto.php">Contacto</a>
 	<a href="consulta.php">Consulta de usuarios</a>
 	<a href="creditos.php">Creditos</a>
