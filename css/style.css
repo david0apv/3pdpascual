@@ -1,0 +1,21 @@
+body{
+	background-color: #d3eeff;
+}
+
+.barra{
+	background-color: #00368e;
+	padding: 5px;
+	color: white;
+}
+
+.contenido{
+	background-color: #ffffff;
+	padding: 15px;
+	margin: 30px;
+}
+
+.pie{
+	background-color: #fc9a44;
+	padding: 5px;
+	color: white;
+}
